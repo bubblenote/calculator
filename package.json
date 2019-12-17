@@ -1,0 +1,11 @@
+{
+  "name": "calculatorv1",
+  "version": "1.0.0",
+  "description": "trying to deploy the calculator",
+  "main": "calculator.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emily kuo",
+  "license": "ISC"
+}
